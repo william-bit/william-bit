@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @william-bit
 - 👀 I’m interested in Web Development and mobile development
-- 🌱 I’m currently learning React js and Flutter
+- 🌱 I’m currently learning Golang 
 - 💞️ I’m looking to collaborate on opensource project
 - 📫 How to reach me ...
 
